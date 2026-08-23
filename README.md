@@ -6,7 +6,7 @@
 ---
 
 ## 🔥 About Me
-- 💻 Passionate about **Java, Frontend Development, and Data Structures & Algorithms**.
+- 💻 Passionate about **Java, Web Development, and Data Structures & Algorithms**.
 - 🌱 Always learning new technologies and improving my coding skills.
 - 🎨 In my free time, I **love to dance** and enjoy a **good cup of tea** ☕.
 
