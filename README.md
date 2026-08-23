@@ -46,4 +46,4 @@
 
 ---
 
-<p align="center">"Code is like humor. When you have to explain it, it’s bad." – Cory House</p>
+<p align="center">"Keep learning, keep building, keep improving."</p>
