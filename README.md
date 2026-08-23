@@ -39,9 +39,9 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/meena-a166b4200" target="_blank">LinkedIn</a> •
-  
-  <a href="mailto:meenaprajapat98132@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/meena-a166b4200" target="_blank">LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="mailto:meenaprajapat98132@gmail.com">Email</a>
 </p>
 
 ---
