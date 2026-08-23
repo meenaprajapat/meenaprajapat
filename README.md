@@ -34,7 +34,7 @@
 | Leetcode Assistant | A tool to assist with solving LeetCode problems efficiently | [View](https://github.com/meenaprajapat/Code-Assistant) |
 | Email Assistant | Automates and manages email tasks for productivity | [View](https://github.com/meenaprajapat/Email-Assistant) |
 | Bird Sound Classification | Classifies bird species based on their sounds using ML | [View](https://github.com/meenaprajapat/Bird-Sound-Classification) |
-| MedScanAI | AI-powered health screening platform that analyzes webcam scans to assess health risks and generates comprehensive medical reports | [View](https://github.com/meenaprajapat/MedScanAI) |
+
 
 ---
 
