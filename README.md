@@ -35,21 +35,13 @@
 | Email Assistant | Automates and manages email tasks for productivity | [View](https://github.com/meenaprajapat/Email-Assistant) |
 | Bird Sound Classification | Classifies bird species based on their sounds using ML | [View](https://github.com/meenaprajapat/Bird-Sound-Classification) |
 
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meenaprajapat&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ---
 
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/meena-a166b4200" target="_blank">LinkedIn</a> •
   
-  <a href="mailto:meenaprajapat98132@gmail.com">Email</a>
+  <a href="mailto:meenaprajapat98132@gmail.com">Email</a> •
 </p>
 
 ---
